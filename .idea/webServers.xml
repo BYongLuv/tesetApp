@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="75de20e4-b657-4b98-a8e7-a38310a4265d" name="58.120.113.238" url="http://58.120.113.238">
+        <fileTransfer host="58.120.113.238" port="22" rootFolder="/home/devyoon" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
